@@ -1,2 +1,2 @@
 # Numericable_Savant
-A profile for the French box Numéricable "La Box"
+A profile of the French box Numéricable "La Box" for savant
